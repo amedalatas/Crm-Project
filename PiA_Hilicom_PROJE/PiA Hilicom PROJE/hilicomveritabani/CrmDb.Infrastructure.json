@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "64b797974646cc85e0543a58"
+  },
+  "address": "İzmir Karşıyaka Bostanlı 6345 22 4",
+  "type": "VDSL"
+},
+{
+  "_id": {
+    "$oid": "64b54cbf52cc77c5270d3d7d"
+  },
+  "address": "İstanbul Ümraniye Parseller Cuma 16 4",
+  "type": "Fiber"
+},
+{
+  "_id": {
+    "$oid": "64b798104646cc85e0543aad"
+  },
+  "address": "İzmir,Buca,Yaylacık,177,13,4",
+  "type": "ADSL"
+},
+{
+  "_id": {
+    "$oid": "64b798e34646cc85e0543b69"
+  },
+  "address": "İzmir,Karşıyaka,Bostanlı,6345,22,4",
+  "type": "Fiber"
+},
+{
+  "_id": {
+    "$oid": "64b799144646cc85e0543b8b"
+  },
+  "address": "İzmir,Buca,Adatepe,27,4,4",
+  "type": "VDSL"
+},
+{
+  "_id": {
+    "$oid": "64b83dc6080b1e7d65b393ee"
+  },
+  "type": "Fiber",
+  "address": "İzmir",
+  "_class": "com.crm.Springbootapplication.entity.Infrastructre"
+}]
